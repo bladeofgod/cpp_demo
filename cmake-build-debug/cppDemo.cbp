@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cppDemo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="G:/clionProjects/cppDemo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="G:/clionProjects/cppDemo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cppDemo">
+				<Option output="G:/clionProjects/cppDemo/cmake-build-debug/cppDemo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/clionProjects/cppDemo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="I:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="I:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="I:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="I:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="I:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="I:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 cppDemo"/>
+					<CompileFile command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cppDemo/fast">
+				<Option output="G:/clionProjects/cppDemo/cmake-build-debug/cppDemo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/clionProjects/cppDemo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="I:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="I:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="I:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="I:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="I:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="I:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 cppDemo/fast"/>
+					<CompileFile command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="G:/clionProjects/cppDemo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="I:/mingw/mingw64/bin/mingw32-make.exe -f &quot;G:/clionProjects/cppDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="G:/clionProjects/cppDemo/day1/leap_year.h">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="G:/clionProjects/cppDemo/day1/power_n.h">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="G:/clionProjects/cppDemo/day1/print_demo.cpp">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="G:/clionProjects/cppDemo/day1/print_demo.h">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="G:/clionProjects/cppDemo/day1/roll_dice.h">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="G:/clionProjects/cppDemo/day1/union_practice.h">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="G:/clionProjects/cppDemo/main.cpp">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="G:/clionProjects/cppDemo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

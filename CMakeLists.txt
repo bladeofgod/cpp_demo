@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.19)
+project(cppDemo)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(cppDemo main.cpp day1/print_demo.cpp day1/print_demo.h day1/leap_year.h day1/union_practice.h day1/power_n.h day1/roll_dice.h)

@@ -53,19 +53,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "I:\clion\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "E:\clion\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "I:\clion\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f
+RM = "E:\clion\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = G:\clionProjects\cppDemo
+CMAKE_SOURCE_DIR = E:\clionProjects\cpp_demo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = G:\clionProjects\cppDemo\cmake-build-debug
+CMAKE_BINARY_DIR = E:\clionProjects\cpp_demo\cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -92,14 +92,14 @@ clean: CMakeFiles/cppDemo.dir/clean
 CMakeFiles/cppDemo.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=G:\clionProjects\cppDemo\cmake-build-debug\CMakeFiles --progress-num=1,2,3 "Built target cppDemo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\clionProjects\cpp_demo\cmake-build-debug\CMakeFiles --progress-num=1,2,3 "Built target cppDemo"
 .PHONY : CMakeFiles/cppDemo.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/cppDemo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start G:\clionProjects\cppDemo\cmake-build-debug\CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\clionProjects\cpp_demo\cmake-build-debug\CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/cppDemo.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start G:\clionProjects\cppDemo\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\clionProjects\cpp_demo\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/cppDemo.dir/rule
 
 # Convenience name for target.

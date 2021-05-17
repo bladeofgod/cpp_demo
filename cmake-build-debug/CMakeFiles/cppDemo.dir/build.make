@@ -52,19 +52,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "I:\clion\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "E:\clion\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "I:\clion\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f
+RM = "E:\clion\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = G:\clionProjects\cppDemo
+CMAKE_SOURCE_DIR = E:\clionProjects\cpp_demo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = G:\clionProjects\cppDemo\cmake-build-debug
+CMAKE_BINARY_DIR = E:\clionProjects\cpp_demo\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/cppDemo.dir/depend.make
@@ -77,29 +77,29 @@ include CMakeFiles/cppDemo.dir/flags.make
 
 CMakeFiles/cppDemo.dir/main.cpp.obj: CMakeFiles/cppDemo.dir/flags.make
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\clionProjects\cppDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cppDemo.dir/main.cpp.obj"
-	I:\mingw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cppDemo.dir\main.cpp.obj -c G:\clionProjects\cppDemo\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\clionProjects\cpp_demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cppDemo.dir/main.cpp.obj"
+	E:\mingw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cppDemo.dir\main.cpp.obj -c E:\clionProjects\cpp_demo\main.cpp
 
 CMakeFiles/cppDemo.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppDemo.dir/main.cpp.i"
-	I:\mingw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\clionProjects\cppDemo\main.cpp > CMakeFiles\cppDemo.dir\main.cpp.i
+	E:\mingw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\clionProjects\cpp_demo\main.cpp > CMakeFiles\cppDemo.dir\main.cpp.i
 
 CMakeFiles/cppDemo.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppDemo.dir/main.cpp.s"
-	I:\mingw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\clionProjects\cppDemo\main.cpp -o CMakeFiles\cppDemo.dir\main.cpp.s
+	E:\mingw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\clionProjects\cpp_demo\main.cpp -o CMakeFiles\cppDemo.dir\main.cpp.s
 
 CMakeFiles/cppDemo.dir/day1/print_demo.cpp.obj: CMakeFiles/cppDemo.dir/flags.make
 CMakeFiles/cppDemo.dir/day1/print_demo.cpp.obj: ../day1/print_demo.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\clionProjects\cppDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cppDemo.dir/day1/print_demo.cpp.obj"
-	I:\mingw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cppDemo.dir\day1\print_demo.cpp.obj -c G:\clionProjects\cppDemo\day1\print_demo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\clionProjects\cpp_demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cppDemo.dir/day1/print_demo.cpp.obj"
+	E:\mingw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cppDemo.dir\day1\print_demo.cpp.obj -c E:\clionProjects\cpp_demo\day1\print_demo.cpp
 
 CMakeFiles/cppDemo.dir/day1/print_demo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppDemo.dir/day1/print_demo.cpp.i"
-	I:\mingw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\clionProjects\cppDemo\day1\print_demo.cpp > CMakeFiles\cppDemo.dir\day1\print_demo.cpp.i
+	E:\mingw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\clionProjects\cpp_demo\day1\print_demo.cpp > CMakeFiles\cppDemo.dir\day1\print_demo.cpp.i
 
 CMakeFiles/cppDemo.dir/day1/print_demo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppDemo.dir/day1/print_demo.cpp.s"
-	I:\mingw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\clionProjects\cppDemo\day1\print_demo.cpp -o CMakeFiles\cppDemo.dir\day1\print_demo.cpp.s
+	E:\mingw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\clionProjects\cpp_demo\day1\print_demo.cpp -o CMakeFiles\cppDemo.dir\day1\print_demo.cpp.s
 
 # Object files for target cppDemo
 cppDemo_OBJECTS = \
@@ -115,7 +115,7 @@ cppDemo.exe: CMakeFiles/cppDemo.dir/build.make
 cppDemo.exe: CMakeFiles/cppDemo.dir/linklibs.rsp
 cppDemo.exe: CMakeFiles/cppDemo.dir/objects1.rsp
 cppDemo.exe: CMakeFiles/cppDemo.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=G:\clionProjects\cppDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable cppDemo.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\clionProjects\cpp_demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable cppDemo.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\cppDemo.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -128,6 +128,6 @@ CMakeFiles/cppDemo.dir/clean:
 .PHONY : CMakeFiles/cppDemo.dir/clean
 
 CMakeFiles/cppDemo.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" G:\clionProjects\cppDemo G:\clionProjects\cppDemo G:\clionProjects\cppDemo\cmake-build-debug G:\clionProjects\cppDemo\cmake-build-debug G:\clionProjects\cppDemo\cmake-build-debug\CMakeFiles\cppDemo.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\clionProjects\cpp_demo E:\clionProjects\cpp_demo E:\clionProjects\cpp_demo\cmake-build-debug E:\clionProjects\cpp_demo\cmake-build-debug E:\clionProjects\cpp_demo\cmake-build-debug\CMakeFiles\cppDemo.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/cppDemo.dir/depend
 

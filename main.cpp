@@ -5,17 +5,28 @@
 #include "day1/union_practice.h"
 #include "day1/power_n.h"
 #include "day1/roll_dice.h"
+#include "day2/enum_demo.h"
 
+void day1();
+void day2();
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
+    //day1();
+    day2();
+
+    system("pause");
+    return 0;
+}
+
+void day2(){
+    runEnum();
+}
+
+void day1(){
     //print_practice();
     //isLeapYear();
     //runUnion();
     //runPowerN();
-    runDiceDemo();
-
-
-    system("pause");
-    return 0;
+    //runDiceDemo();
 }

@@ -6,37 +6,43 @@
 
 #IncludeRegexTransform: 
 
-G:/clionProjects/cppDemo/day1/leap_year.h
+E:/clionProjects/cpp_demo/day1/leap_year.h
 iostream
 -
 
-G:/clionProjects/cppDemo/day1/power_n.h
+E:/clionProjects/cpp_demo/day1/power_n.h
 iostream
 -
 
-G:/clionProjects/cppDemo/day1/print_demo.h
+E:/clionProjects/cpp_demo/day1/print_demo.h
 iostream
 -
 
-G:/clionProjects/cppDemo/day1/roll_dice.h
+E:/clionProjects/cpp_demo/day1/roll_dice.h
 iostream
 -
 
-G:/clionProjects/cppDemo/day1/union_practice.h
+E:/clionProjects/cpp_demo/day1/union_practice.h
 iostream
 -
 
-G:/clionProjects/cppDemo/main.cpp
+E:/clionProjects/cpp_demo/day2/enum_demo.h
+iostream
+-
+
+E:/clionProjects/cpp_demo/main.cpp
 iostream
 -
 day1/print_demo.h
-G:/clionProjects/cppDemo/day1/print_demo.h
+E:/clionProjects/cpp_demo/day1/print_demo.h
 day1/leap_year.h
-G:/clionProjects/cppDemo/day1/leap_year.h
+E:/clionProjects/cpp_demo/day1/leap_year.h
 day1/union_practice.h
-G:/clionProjects/cppDemo/day1/union_practice.h
+E:/clionProjects/cpp_demo/day1/union_practice.h
 day1/power_n.h
-G:/clionProjects/cppDemo/day1/power_n.h
+E:/clionProjects/cpp_demo/day1/power_n.h
 day1/roll_dice.h
-G:/clionProjects/cppDemo/day1/roll_dice.h
+E:/clionProjects/cpp_demo/day1/roll_dice.h
+day2/enum_demo.h
+E:/clionProjects/cpp_demo/day2/enum_demo.h
 

@@ -38,6 +38,10 @@ E:/clionProjects/cpp_demo/day2/request_pi.h
 iostream
 E:/clionProjects/cpp_demo/day2/iostream
 
+E:/clionProjects/cpp_demo/day2/struct_demo.h
+iostream
+-
+
 E:/clionProjects/cpp_demo/main.cpp
 iostream
 -
@@ -57,4 +61,6 @@ day2/request_pi.h
 E:/clionProjects/cpp_demo/day2/request_pi.h
 day2/hanoi.h
 E:/clionProjects/cpp_demo/day2/hanoi.h
+day2/struct_demo.h
+E:/clionProjects/cpp_demo/day2/struct_demo.h
 

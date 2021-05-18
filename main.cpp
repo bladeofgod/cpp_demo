@@ -8,6 +8,7 @@
 #include "day2/enum_demo.h"
 #include "day2/request_pi.h"
 #include "day2/hanoi.h"
+#include "day2/struct_demo.h"
 
 void day1();
 void day2();
@@ -24,7 +25,8 @@ int main() {
 void day2(){
     //runEnum();
     //runPiDemo();
-    runHanoiDemo();
+    //runHanoiDemo();
+    runStruct();
 
 }
 

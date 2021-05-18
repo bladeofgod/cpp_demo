@@ -9,5 +9,7 @@ CMakeFiles/cppDemo.dir/main.cpp.obj: ../day1/print_demo.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day1/roll_dice.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day1/union_practice.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day2/enum_demo.h
+CMakeFiles/cppDemo.dir/main.cpp.obj: ../day2/hanoi.h
+CMakeFiles/cppDemo.dir/main.cpp.obj: ../day2/request_pi.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../main.cpp
 

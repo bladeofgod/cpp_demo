@@ -7,6 +7,7 @@
 #include "day1/roll_dice.h"
 #include "day2/enum_demo.h"
 #include "day2/request_pi.h"
+#include "day2/hanoi.h"
 
 void day1();
 void day2();
@@ -22,7 +23,9 @@ int main() {
 
 void day2(){
     //runEnum();
-    runPiDemo();
+    //runPiDemo();
+    runHanoiDemo();
+
 }
 
 void day1(){

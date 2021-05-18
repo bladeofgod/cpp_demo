@@ -30,6 +30,14 @@ E:/clionProjects/cpp_demo/day2/enum_demo.h
 iostream
 -
 
+E:/clionProjects/cpp_demo/day2/hanoi.h
+iostream
+-
+
+E:/clionProjects/cpp_demo/day2/request_pi.h
+iostream
+E:/clionProjects/cpp_demo/day2/iostream
+
 E:/clionProjects/cpp_demo/main.cpp
 iostream
 -
@@ -45,4 +53,8 @@ day1/roll_dice.h
 E:/clionProjects/cpp_demo/day1/roll_dice.h
 day2/enum_demo.h
 E:/clionProjects/cpp_demo/day2/enum_demo.h
+day2/request_pi.h
+E:/clionProjects/cpp_demo/day2/request_pi.h
+day2/hanoi.h
+E:/clionProjects/cpp_demo/day2/hanoi.h
 

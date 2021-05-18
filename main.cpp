@@ -11,6 +11,7 @@
 #include "day2/struct_demo.h"
 #include "day2/recursion_1.h"
 #include "day2/recursion_2.h"
+#include "day2/static_var.h"
 
 
 void day1();
@@ -31,7 +32,8 @@ void day2(){
     //runHanoiDemo();
     //runStruct();
     //recursion_1();
-    recursion_2();
+    //recursion_2();
+    runStatic();
 
 }
 

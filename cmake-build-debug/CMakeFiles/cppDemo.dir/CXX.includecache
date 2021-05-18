@@ -46,6 +46,10 @@ E:/clionProjects/cpp_demo/day2/request_pi.h
 iostream
 E:/clionProjects/cpp_demo/day2/iostream
 
+E:/clionProjects/cpp_demo/day2/static_var.h
+iostream
+-
+
 E:/clionProjects/cpp_demo/day2/struct_demo.h
 iostream
 -
@@ -75,4 +79,6 @@ day2/recursion_1.h
 E:/clionProjects/cpp_demo/day2/recursion_1.h
 day2/recursion_2.h
 E:/clionProjects/cpp_demo/day2/recursion_2.h
+day2/static_var.h
+E:/clionProjects/cpp_demo/day2/static_var.h
 

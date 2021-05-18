@@ -113,6 +113,9 @@
 		<Unit filename="E:/clionProjects/cpp_demo/day2/request_pi.h">
 			<Option target="cppDemo"/>
 		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day2/static_var.h">
+			<Option target="cppDemo"/>
+		</Unit>
 		<Unit filename="E:/clionProjects/cpp_demo/day2/struct_demo.h">
 			<Option target="cppDemo"/>
 		</Unit>

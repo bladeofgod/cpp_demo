@@ -10,6 +10,7 @@
 #include "day2/hanoi.h"
 #include "day2/struct_demo.h"
 #include "day2/recursion_1.h"
+#include "day2/recursion_2.h"
 
 
 void day1();
@@ -29,7 +30,8 @@ void day2(){
     //runPiDemo();
     //runHanoiDemo();
     //runStruct();
-    recursion_1();
+    //recursion_1();
+    recursion_2();
 
 }
 

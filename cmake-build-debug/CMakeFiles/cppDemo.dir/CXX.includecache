@@ -38,6 +38,10 @@ E:/clionProjects/cpp_demo/day2/recursion_1.h
 iostream
 -
 
+E:/clionProjects/cpp_demo/day2/recursion_2.h
+iostream
+-
+
 E:/clionProjects/cpp_demo/day2/request_pi.h
 iostream
 E:/clionProjects/cpp_demo/day2/iostream
@@ -69,4 +73,6 @@ day2/struct_demo.h
 E:/clionProjects/cpp_demo/day2/struct_demo.h
 day2/recursion_1.h
 E:/clionProjects/cpp_demo/day2/recursion_1.h
+day2/recursion_2.h
+E:/clionProjects/cpp_demo/day2/recursion_2.h
 

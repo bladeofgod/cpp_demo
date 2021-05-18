@@ -6,6 +6,7 @@
 #include "day1/power_n.h"
 #include "day1/roll_dice.h"
 #include "day2/enum_demo.h"
+#include "day2/request_pi.h"
 
 void day1();
 void day2();
@@ -20,7 +21,8 @@ int main() {
 }
 
 void day2(){
-    runEnum();
+    //runEnum();
+    runPiDemo();
 }
 
 void day1(){

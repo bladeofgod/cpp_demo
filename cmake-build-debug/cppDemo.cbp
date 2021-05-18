@@ -104,6 +104,9 @@
 		<Unit filename="E:/clionProjects/cpp_demo/day2/hanoi.h">
 			<Option target="cppDemo"/>
 		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day2/recursion_1.h">
+			<Option target="cppDemo"/>
+		</Unit>
 		<Unit filename="E:/clionProjects/cpp_demo/day2/request_pi.h">
 			<Option target="cppDemo"/>
 		</Unit>

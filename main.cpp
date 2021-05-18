@@ -9,6 +9,8 @@
 #include "day2/request_pi.h"
 #include "day2/hanoi.h"
 #include "day2/struct_demo.h"
+#include "day2/recursion_1.h"
+
 
 void day1();
 void day2();
@@ -26,7 +28,8 @@ void day2(){
     //runEnum();
     //runPiDemo();
     //runHanoiDemo();
-    runStruct();
+    //runStruct();
+    recursion_1();
 
 }
 

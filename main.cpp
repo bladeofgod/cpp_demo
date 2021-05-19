@@ -15,6 +15,8 @@
 #include "day3/swip_num.h"
 #include "day3/inline_demo.h"
 #include "day3/combine_demo.h"
+#include "day3/static_func1.h"
+#include "day3/static_func2.h"
 
 
 void day1();
@@ -33,7 +35,9 @@ int main() {
 }
 
 void day3(){
-    runCombineDemo();
+    runStaticF2();
+    //runStaticF1();
+    //runCombineDemo();
     //runInlineDemo();
     //runSwap();
 }

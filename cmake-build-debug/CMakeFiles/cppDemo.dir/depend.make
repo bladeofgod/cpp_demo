@@ -3,8 +3,8 @@
 
 CMakeFiles/cppDemo.dir/day1/print_demo.cpp.obj: ../day1/print_demo.cpp
 
-CMakeFiles/cppDemo.dir/day3/circle.cpp.obj: ../day3/Circle.cpp
-CMakeFiles/cppDemo.dir/day3/circle.cpp.obj: ../day3/Circle.h
+CMakeFiles/cppDemo.dir/day3/Circle.cpp.obj: ../day3/Circle.cpp
+CMakeFiles/cppDemo.dir/day3/Circle.cpp.obj: ../day3/Circle.h
 
 CMakeFiles/cppDemo.dir/day3/circlesss.cpp.obj: ../day3/circlesss.cpp
 
@@ -23,6 +23,8 @@ CMakeFiles/cppDemo.dir/main.cpp.obj: ../day2/struct_demo.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day3/Circle.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day3/combine_demo.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day3/inline_demo.h
+CMakeFiles/cppDemo.dir/main.cpp.obj: ../day3/static_func1.h
+CMakeFiles/cppDemo.dir/main.cpp.obj: ../day3/static_func2.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day3/swip_num.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../main.cpp
 

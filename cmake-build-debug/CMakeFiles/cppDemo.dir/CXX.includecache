@@ -66,6 +66,14 @@ E:/clionProjects/cpp_demo/day3/inline_demo.h
 iostream
 -
 
+E:/clionProjects/cpp_demo/day3/static_func1.h
+iostream
+-
+
+E:/clionProjects/cpp_demo/day3/static_func2.h
+iostream
+-
+
 E:/clionProjects/cpp_demo/day3/swip_num.h
 iostream
 -
@@ -103,4 +111,8 @@ day3/inline_demo.h
 E:/clionProjects/cpp_demo/day3/inline_demo.h
 day3/combine_demo.h
 E:/clionProjects/cpp_demo/day3/combine_demo.h
+day3/static_func1.h
+E:/clionProjects/cpp_demo/day3/static_func1.h
+day3/static_func2.h
+E:/clionProjects/cpp_demo/day3/static_func2.h
 

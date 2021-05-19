@@ -137,6 +137,15 @@
 		<Unit filename="E:/clionProjects/cpp_demo/day3/inline_demo.h">
 			<Option target="cppDemo"/>
 		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day3/static_data.h">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day3/static_func1.h">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day3/static_func2.h">
+			<Option target="cppDemo"/>
+		</Unit>
 		<Unit filename="E:/clionProjects/cpp_demo/day3/swip_num.h">
 			<Option target="cppDemo"/>
 		</Unit>

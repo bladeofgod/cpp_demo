@@ -17,6 +17,7 @@
 #include "day3/combine_demo.h"
 #include "day3/static_func1.h"
 #include "day3/static_func2.h"
+#include "day3/static_data.h"
 
 
 void day1();
@@ -35,7 +36,8 @@ int main() {
 }
 
 void day3(){
-    runStaticF2();
+    runStaticData();
+    //runStaticF2();
     //runStaticF1();
     //runCombineDemo();
     //runInlineDemo();

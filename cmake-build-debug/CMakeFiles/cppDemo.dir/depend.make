@@ -23,6 +23,7 @@ CMakeFiles/cppDemo.dir/main.cpp.obj: ../day2/struct_demo.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day3/Circle.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day3/combine_demo.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day3/inline_demo.h
+CMakeFiles/cppDemo.dir/main.cpp.obj: ../day3/static_data.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day3/static_func1.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day3/static_func2.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day3/swip_num.h

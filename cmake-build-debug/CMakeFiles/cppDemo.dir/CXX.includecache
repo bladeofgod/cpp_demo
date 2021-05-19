@@ -66,6 +66,10 @@ E:/clionProjects/cpp_demo/day3/inline_demo.h
 iostream
 -
 
+E:/clionProjects/cpp_demo/day3/static_data.h
+iostream
+-
+
 E:/clionProjects/cpp_demo/day3/static_func1.h
 iostream
 -
@@ -115,4 +119,6 @@ day3/static_func1.h
 E:/clionProjects/cpp_demo/day3/static_func1.h
 day3/static_func2.h
 E:/clionProjects/cpp_demo/day3/static_func2.h
+day3/static_data.h
+E:/clionProjects/cpp_demo/day3/static_data.h
 

@@ -30,6 +30,7 @@ double arcTan(double x){
         cout<<tail<<endl;
         cout<<"---------------"<<endl;
     }
+    return art;
 }
 
 

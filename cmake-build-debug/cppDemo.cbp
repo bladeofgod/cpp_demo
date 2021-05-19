@@ -119,6 +119,27 @@
 		<Unit filename="E:/clionProjects/cpp_demo/day2/struct_demo.h">
 			<Option target="cppDemo"/>
 		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day3/Circle.cpp">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day3/Circle.h">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day3/circlesss.cpp">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day3/circlesss.h">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day3/combine_demo.h">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day3/inline_demo.h">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day3/swip_num.h">
+			<Option target="cppDemo"/>
+		</Unit>
 		<Unit filename="E:/clionProjects/cpp_demo/main.cpp">
 			<Option target="cppDemo"/>
 		</Unit>

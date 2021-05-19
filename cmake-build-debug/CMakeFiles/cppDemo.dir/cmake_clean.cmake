@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/cppDemo.dir/day1/print_demo.cpp.obj"
+  "CMakeFiles/cppDemo.dir/day3/Circle.cpp.obj"
+  "CMakeFiles/cppDemo.dir/day3/circlesss.cpp.obj"
   "CMakeFiles/cppDemo.dir/main.cpp.obj"
   "cppDemo.exe"
   "cppDemo.exe.manifest"

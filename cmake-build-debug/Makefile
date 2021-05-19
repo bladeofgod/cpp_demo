@@ -168,6 +168,60 @@ day1/print_demo.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/day1/print_demo.cpp.s
 .PHONY : day1/print_demo.cpp.s
 
+day3/Circle.obj: day3/Circle.cpp.obj
+
+.PHONY : day3/Circle.obj
+
+# target to build an object file
+day3/Circle.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/day3/Circle.cpp.obj
+.PHONY : day3/Circle.cpp.obj
+
+day3/Circle.i: day3/Circle.cpp.i
+
+.PHONY : day3/Circle.i
+
+# target to preprocess a source file
+day3/Circle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/day3/Circle.cpp.i
+.PHONY : day3/Circle.cpp.i
+
+day3/Circle.s: day3/Circle.cpp.s
+
+.PHONY : day3/Circle.s
+
+# target to generate assembly for a file
+day3/Circle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/day3/Circle.cpp.s
+.PHONY : day3/Circle.cpp.s
+
+day3/circlesss.obj: day3/circlesss.cpp.obj
+
+.PHONY : day3/circlesss.obj
+
+# target to build an object file
+day3/circlesss.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/day3/circlesss.cpp.obj
+.PHONY : day3/circlesss.cpp.obj
+
+day3/circlesss.i: day3/circlesss.cpp.i
+
+.PHONY : day3/circlesss.i
+
+# target to preprocess a source file
+day3/circlesss.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/day3/circlesss.cpp.i
+.PHONY : day3/circlesss.cpp.i
+
+day3/circlesss.s: day3/circlesss.cpp.s
+
+.PHONY : day3/circlesss.s
+
+# target to generate assembly for a file
+day3/circlesss.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/day3/circlesss.cpp.s
+.PHONY : day3/circlesss.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -207,6 +261,12 @@ help:
 	@echo ... day1/print_demo.obj
 	@echo ... day1/print_demo.i
 	@echo ... day1/print_demo.s
+	@echo ... day3/Circle.obj
+	@echo ... day3/Circle.i
+	@echo ... day3/Circle.s
+	@echo ... day3/circlesss.obj
+	@echo ... day3/circlesss.i
+	@echo ... day3/circlesss.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

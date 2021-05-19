@@ -12,18 +12,30 @@
 #include "day2/recursion_1.h"
 #include "day2/recursion_2.h"
 #include "day2/static_var.h"
+#include "day3/swip_num.h"
+#include "day3/inline_demo.h"
+#include "day3/combine_demo.h"
 
 
 void day1();
 void day2();
+void day3();
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
     //day1();
-    day2();
+    //day2();
+    day3();
+
 
     system("pause");
     return 0;
+}
+
+void day3(){
+    runCombineDemo();
+    //runInlineDemo();
+    //runSwap();
 }
 
 void day2(){

@@ -82,6 +82,14 @@ E:/clionProjects/cpp_demo/day3/swip_num.h
 iostream
 -
 
+E:/clionProjects/cpp_demo/day4/const_demo_2.h
+iostream
+-
+
+E:/clionProjects/cpp_demo/day4/const_object_ref.h
+iostream
+-
+
 E:/clionProjects/cpp_demo/main.cpp
 iostream
 -
@@ -121,4 +129,8 @@ day3/static_func2.h
 E:/clionProjects/cpp_demo/day3/static_func2.h
 day3/static_data.h
 E:/clionProjects/cpp_demo/day3/static_data.h
+day4/const_object_ref.h
+E:/clionProjects/cpp_demo/day4/const_object_ref.h
+day4/const_demo_2.h
+E:/clionProjects/cpp_demo/day4/const_demo_2.h
 

@@ -18,25 +18,34 @@
 #include "day3/static_func1.h"
 #include "day3/static_func2.h"
 #include "day3/static_data.h"
+#include "day4/const_object_ref.h"
+#include "day4/const_demo_2.h"
 
 
 void day1();
 void day2();
 void day3();
+void day4();
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
     //day1();
     //day2();
-    day3();
+    //day3();
+    day4();
 
 
     system("pause");
     return 0;
 }
 
+void day4(){
+    runConstD2();
+    //runConstOR();
+}
+
 void day3(){
-    runStaticData();
+    //runStaticData();
     //runStaticF2();
     //runStaticF1();
     //runCombineDemo();

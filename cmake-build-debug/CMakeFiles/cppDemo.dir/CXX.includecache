@@ -94,6 +94,12 @@ E:/clionProjects/cpp_demo/day4/friend_class.h
 iostream
 -
 
+E:/clionProjects/cpp_demo/day4/friend_module.h
+iostream
+-
+cmath
+-
+
 E:/clionProjects/cpp_demo/main.cpp
 iostream
 -
@@ -139,4 +145,6 @@ day4/const_demo_2.h
 E:/clionProjects/cpp_demo/day4/const_demo_2.h
 day4/friend_class.h
 E:/clionProjects/cpp_demo/day4/friend_class.h
+day4/friend_module.h
+E:/clionProjects/cpp_demo/day4/friend_module.h
 

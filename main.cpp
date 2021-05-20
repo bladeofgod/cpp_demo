@@ -21,6 +21,7 @@
 #include "day4/const_object_ref.h"
 #include "day4/const_demo_2.h"
 #include "day4/friend_class.h"
+#include "day4/friend_module.h"
 
 
 void day1();
@@ -41,7 +42,8 @@ int main() {
 }
 
 void day4(){
-    runFriendClass();
+    runFM();
+    //runFriendClass();
     //runConstD2();
     //runConstOR();
 }

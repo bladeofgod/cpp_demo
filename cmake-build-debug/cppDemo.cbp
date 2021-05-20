@@ -155,6 +155,9 @@
 		<Unit filename="E:/clionProjects/cpp_demo/day4/const_object_ref.h">
 			<Option target="cppDemo"/>
 		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day4/friend_class.h">
+			<Option target="cppDemo"/>
+		</Unit>
 		<Unit filename="E:/clionProjects/cpp_demo/main.cpp">
 			<Option target="cppDemo"/>
 		</Unit>

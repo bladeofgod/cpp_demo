@@ -90,6 +90,10 @@ E:/clionProjects/cpp_demo/day4/const_object_ref.h
 iostream
 -
 
+E:/clionProjects/cpp_demo/day4/friend_class.h
+iostream
+-
+
 E:/clionProjects/cpp_demo/main.cpp
 iostream
 -
@@ -133,4 +137,6 @@ day4/const_object_ref.h
 E:/clionProjects/cpp_demo/day4/const_object_ref.h
 day4/const_demo_2.h
 E:/clionProjects/cpp_demo/day4/const_demo_2.h
+day4/friend_class.h
+E:/clionProjects/cpp_demo/day4/friend_class.h
 

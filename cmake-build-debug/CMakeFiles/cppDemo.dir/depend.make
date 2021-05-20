@@ -29,5 +29,6 @@ CMakeFiles/cppDemo.dir/main.cpp.obj: ../day3/static_func2.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day3/swip_num.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day4/const_demo_2.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day4/const_object_ref.h
+CMakeFiles/cppDemo.dir/main.cpp.obj: ../day4/friend_class.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../main.cpp
 

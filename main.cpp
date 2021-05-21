@@ -23,6 +23,8 @@
 #include "day4/friend_class.h"
 #include "day4/friend_module.h"
 #include "day4/clock.h"
+#include "day4/time_reload.h"
+#include "day4/time_reload_pp.h"
 
 
 void day1();
@@ -55,7 +57,10 @@ void runClock(){
 
 void day4(){
 
-    runClock();
+    runTimePP();
+
+    //runTimeReload();
+    //runClock();
     //runFM();
     //runFriendClass();
     //runConstD2();

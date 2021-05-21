@@ -82,6 +82,8 @@ E:/clionProjects/cpp_demo/day3/swip_num.h
 iostream
 -
 
+E:/clionProjects/cpp_demo/day4/clock.h
+
 E:/clionProjects/cpp_demo/day4/const_demo_2.h
 iostream
 -
@@ -98,6 +100,14 @@ E:/clionProjects/cpp_demo/day4/friend_module.h
 iostream
 -
 cmath
+-
+
+E:/clionProjects/cpp_demo/day4/time_reload.h
+iostream
+-
+
+E:/clionProjects/cpp_demo/day4/time_reload_pp.h
+iostream
 -
 
 E:/clionProjects/cpp_demo/main.cpp
@@ -147,4 +157,10 @@ day4/friend_class.h
 E:/clionProjects/cpp_demo/day4/friend_class.h
 day4/friend_module.h
 E:/clionProjects/cpp_demo/day4/friend_module.h
+day4/clock.h
+E:/clionProjects/cpp_demo/day4/clock.h
+day4/time_reload.h
+E:/clionProjects/cpp_demo/day4/time_reload.h
+day4/time_reload_pp.h
+E:/clionProjects/cpp_demo/day4/time_reload_pp.h
 

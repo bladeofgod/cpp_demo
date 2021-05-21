@@ -222,6 +222,33 @@ day3/circlesss.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/day3/circlesss.cpp.s
 .PHONY : day3/circlesss.cpp.s
 
+day4/clock.obj: day4/clock.cpp.obj
+
+.PHONY : day4/clock.obj
+
+# target to build an object file
+day4/clock.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/day4/clock.cpp.obj
+.PHONY : day4/clock.cpp.obj
+
+day4/clock.i: day4/clock.cpp.i
+
+.PHONY : day4/clock.i
+
+# target to preprocess a source file
+day4/clock.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/day4/clock.cpp.i
+.PHONY : day4/clock.cpp.i
+
+day4/clock.s: day4/clock.cpp.s
+
+.PHONY : day4/clock.s
+
+# target to generate assembly for a file
+day4/clock.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/day4/clock.cpp.s
+.PHONY : day4/clock.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -267,6 +294,9 @@ help:
 	@echo ... day3/circlesss.obj
 	@echo ... day3/circlesss.i
 	@echo ... day3/circlesss.s
+	@echo ... day4/clock.obj
+	@echo ... day4/clock.i
+	@echo ... day4/clock.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

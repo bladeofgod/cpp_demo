@@ -149,6 +149,12 @@
 		<Unit filename="E:/clionProjects/cpp_demo/day3/swip_num.h">
 			<Option target="cppDemo"/>
 		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day4/clock.cpp">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day4/clock.h">
+			<Option target="cppDemo"/>
+		</Unit>
 		<Unit filename="E:/clionProjects/cpp_demo/day4/const_demo_2.h">
 			<Option target="cppDemo"/>
 		</Unit>

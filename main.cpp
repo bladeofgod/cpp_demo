@@ -22,6 +22,7 @@
 #include "day4/const_demo_2.h"
 #include "day4/friend_class.h"
 #include "day4/friend_module.h"
+#include "day4/clock.h"
 
 
 void day1();
@@ -41,8 +42,21 @@ int main() {
     return 0;
 }
 
+
+void runClock(){
+    Clock c(0,0,0);
+    c.setTime(10,20,30);
+    c.showTime();
+    Clock d(c);
+    d.showTime();
+    d.setTime(90,80,70);
+    d.showTime();
+}
+
 void day4(){
-    runFM();
+
+    runClock();
+    //runFM();
     //runFriendClass();
     //runConstD2();
     //runConstOR();

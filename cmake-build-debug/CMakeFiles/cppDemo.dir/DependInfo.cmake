@@ -7,6 +7,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/clionProjects/cpp_demo/day1/print_demo.cpp" "E:/clionProjects/cpp_demo/cmake-build-debug/CMakeFiles/cppDemo.dir/day1/print_demo.cpp.obj"
   "E:/clionProjects/cpp_demo/day3/Circle.cpp" "E:/clionProjects/cpp_demo/cmake-build-debug/CMakeFiles/cppDemo.dir/day3/Circle.cpp.obj"
   "E:/clionProjects/cpp_demo/day3/circlesss.cpp" "E:/clionProjects/cpp_demo/cmake-build-debug/CMakeFiles/cppDemo.dir/day3/circlesss.cpp.obj"
+  "E:/clionProjects/cpp_demo/day4/clock.cpp" "E:/clionProjects/cpp_demo/cmake-build-debug/CMakeFiles/cppDemo.dir/day4/clock.cpp.obj"
   "E:/clionProjects/cpp_demo/main.cpp" "E:/clionProjects/cpp_demo/cmake-build-debug/CMakeFiles/cppDemo.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

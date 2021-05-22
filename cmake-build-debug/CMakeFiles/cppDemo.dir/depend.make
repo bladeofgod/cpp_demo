@@ -11,20 +11,7 @@ CMakeFiles/cppDemo.dir/day3/circlesss.cpp.obj: ../day3/circlesss.cpp
 CMakeFiles/cppDemo.dir/day4/clock.cpp.obj: ../day4/clock.cpp
 CMakeFiles/cppDemo.dir/day4/clock.cpp.obj: ../day4/clock.h
 
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day4/clock.h
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day4/time_reload.h
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day4/time_reload_pp.h
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day5/child_cons_invo_order.h
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day5/child_constructor.h
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day5/child_to_parent.h
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day5/construct_order.h
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day5/constructor_invoke_order.h
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day5/extends_demo.h
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day5/no_cons_child_class.h
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day6/abstract_class.h
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day6/virtual_decons.h
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day6/virtual_demo.h
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day6/virtual_f_attr.h
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day6/virtual_f_demo.h
+CMakeFiles/cppDemo.dir/main.cpp.obj: ../day6/day6_demo.h
+CMakeFiles/cppDemo.dir/main.cpp.obj: ../day6/employee.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../main.cpp
 

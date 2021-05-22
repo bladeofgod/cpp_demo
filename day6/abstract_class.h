@@ -2,7 +2,7 @@
 // Created by Admin on 2021/5/22.
 //
 /*
- * ³éÏóÀà
+ * æŠ½è±¡ç±»
  */
 
 #include <iostream>
@@ -18,20 +18,20 @@ public:
         x = i;
         y = j;
     }
-    virtual void area()=0;// ´¿Ğéº¯Êı
+    virtual void area()=0;// çº¯è™šå‡½æ•°
 };
 
 class Triangle:public Figure{
 public:
     void area() override{
-        cout<<"Èı½ÇĞÎÃæ»ı£º"<<x * y * 0.5<<endl;
+        cout<<"ä¸‰è§’å½¢é¢ç§¯ï¼š"<<x * y * 0.5<<endl;
     }
 };
 
 class Rectangle:public Figure{
 public:
     void area() override {
-        cout<<"¾ØĞÎÃæ»ı£º "<<x*y<<endl;
+        cout<<"çŸ©å½¢é¢ç§¯ï¼š "<<x*y<<endl;
 
     }
 };
@@ -39,7 +39,7 @@ public:
 
 void runACdemo(){
     Figure *pf = NULL;
-    //³éÏóÀà²»ÄÜ±»ÊµÀı»¯
+    //æŠ½è±¡ç±»ä¸èƒ½è¢«å®ä¾‹åŒ–
     Rectangle r;
     Triangle t;
     t.set(10,20);
@@ -49,7 +49,7 @@ void runACdemo(){
     pf = &r;
     pf->area();
 
-    //³éÏóÀàµÄÒıÓÃ
+    //æŠ½è±¡ç±»çš„å¼•ç”¨
     Figure &rf = t;
 
     rf.set(20,20);

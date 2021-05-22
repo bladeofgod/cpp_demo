@@ -1,4 +1,5 @@
 #include <iostream>
+#include "day6/day6_demo.h"
 
 //#include "day1/print_demo.h"
 //#include "day1/leap_year.h"
@@ -22,21 +23,21 @@
 //#include "day4/const_demo_2.h"
 //#include "day4/friend_class.h"
 //#include "day4/friend_module.h"
-#include "day4/clock.h"
-#include "day4/time_reload.h"
-#include "day4/time_reload_pp.h"
-#include "day5/extends_demo.h"
-#include "day5/constructor_invoke_order.h"
-#include "day5/construct_order.h"
-#include "day5/no_cons_child_class.h"
-#include "day5/child_constructor.h"
-#include "day5/child_cons_invo_order.h"
-#include "day5/child_to_parent.h"
-#include "day6/abstract_class.h"
-#include "day6/virtual_demo.h"
-#include "day6/virtual_decons.h"
-#include "day6/virtual_f_attr.h"
-#include "day6/virtual_f_demo.h"
+//#include "day4/clock.h"
+//#include "day4/time_reload.h"
+//#include "day4/time_reload_pp.h"
+//#include "day5/extends_demo.h"
+//#include "day5/constructor_invoke_order.h"
+//#include "day5/construct_order.h"
+//#include "day5/no_cons_child_class.h"
+//#include "day5/child_constructor.h"
+//#include "day5/child_cons_invo_order.h"
+//#include "day5/child_to_parent.h"
+//#include "day6/abstract_class.h"
+//#include "day6/virtual_demo.h"
+//#include "day6/virtual_decons.h"
+//#include "day6/virtual_f_attr.h"
+//#include "day6/virtual_f_demo.h"
 
 
 void day1();
@@ -44,6 +45,7 @@ void day2();
 void day3();
 void day4();
 void day5();
+void day6();
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
@@ -51,17 +53,26 @@ int main() {
     //day2();
     //day3();
     //day4();
-    day5();
+    //day5();
+    day6();
 
 
     system("pause");
     return 0;
 }
 
+
+void day6(){
+
+
+
+    runDay6Demo();
+
+}
+
 void day5(){
 
-
-    runVFDdemo();
+    //runVFDdemo();
     //runVFaDemo();
     //runVDdemo();
     //runVirtualDemo();
@@ -76,15 +87,15 @@ void day5(){
 }
 
 
-void runClock(){
-    Clock c(0,0,0);
-    c.setTime(10,20,30);
-    c.showTime();
-    Clock d(c);
-    d.showTime();
-    d.setTime(90,80,70);
-    d.showTime();
-}
+//void runClock(){
+//    Clock c(0,0,0);
+//    c.setTime(10,20,30);
+//    c.showTime();
+//    Clock d(c);
+//    d.showTime();
+//    d.setTime(90,80,70);
+//    d.showTime();
+//}
 
 void day4(){
 

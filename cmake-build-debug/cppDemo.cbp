@@ -200,6 +200,9 @@
 		<Unit filename="E:/clionProjects/cpp_demo/day6/day6_demo.h">
 			<Option target="cppDemo"/>
 		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day6/employee.h">
+			<Option target="cppDemo"/>
+		</Unit>
 		<Unit filename="E:/clionProjects/cpp_demo/day6/virtual_decons.h">
 			<Option target="cppDemo"/>
 		</Unit>

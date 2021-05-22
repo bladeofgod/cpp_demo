@@ -182,6 +182,9 @@
 		<Unit filename="E:/clionProjects/cpp_demo/day5/extends_demo.h">
 			<Option target="cppDemo"/>
 		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day5/no_cons_child_class.h">
+			<Option target="cppDemo"/>
+		</Unit>
 		<Unit filename="E:/clionProjects/cpp_demo/main.cpp">
 			<Option target="cppDemo"/>
 		</Unit>

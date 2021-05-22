@@ -26,6 +26,10 @@ E:/clionProjects/cpp_demo/day5/extends_demo.h
 iostream
 -
 
+E:/clionProjects/cpp_demo/day5/no_cons_child_class.h
+iostream
+-
+
 E:/clionProjects/cpp_demo/main.cpp
 iostream
 -
@@ -41,4 +45,6 @@ day5/constructor_invoke_order.h
 E:/clionProjects/cpp_demo/day5/constructor_invoke_order.h
 day5/construct_order.h
 E:/clionProjects/cpp_demo/day5/construct_order.h
+day5/no_cons_child_class.h
+E:/clionProjects/cpp_demo/day5/no_cons_child_class.h
 

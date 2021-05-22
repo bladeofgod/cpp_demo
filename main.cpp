@@ -29,6 +29,8 @@
 #include "day5/constructor_invoke_order.h"
 #include "day5/construct_order.h"
 #include "day5/no_cons_child_class.h"
+#include "day5/child_constructor.h"
+#include "day5/child_cons_invo_order.h"
 
 
 void day1();
@@ -52,7 +54,9 @@ int main() {
 
 void day5(){
 
-    runNoCons();
+    runChildConsIO();
+    //runChildCons();
+    //runNoCons();
     //runConsOrder();
     //showInvokeOrder();
     //runExtendsDemo();

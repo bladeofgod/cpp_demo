@@ -173,6 +173,12 @@
 		<Unit filename="E:/clionProjects/cpp_demo/day4/time_reload_pp.h">
 			<Option target="cppDemo"/>
 		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day5/construct_order.h">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day5/constructor_invoke_order.h">
+			<Option target="cppDemo"/>
+		</Unit>
 		<Unit filename="E:/clionProjects/cpp_demo/day5/extends_demo.h">
 			<Option target="cppDemo"/>
 		</Unit>

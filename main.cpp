@@ -26,6 +26,8 @@
 #include "day4/time_reload.h"
 #include "day4/time_reload_pp.h"
 #include "day5/extends_demo.h"
+#include "day5/constructor_invoke_order.h"
+#include "day5/construct_order.h"
 
 
 void day1();
@@ -48,7 +50,10 @@ int main() {
 }
 
 void day5(){
-    runExtendsDemo();
+
+    runConsOrder();
+    //showInvokeOrder();
+    //runExtendsDemo();
 }
 
 

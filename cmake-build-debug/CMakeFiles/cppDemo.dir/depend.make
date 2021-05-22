@@ -21,5 +21,10 @@ CMakeFiles/cppDemo.dir/main.cpp.obj: ../day5/construct_order.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day5/constructor_invoke_order.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day5/extends_demo.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day5/no_cons_child_class.h
+CMakeFiles/cppDemo.dir/main.cpp.obj: ../day6/abstract_class.h
+CMakeFiles/cppDemo.dir/main.cpp.obj: ../day6/virtual_decons.h
+CMakeFiles/cppDemo.dir/main.cpp.obj: ../day6/virtual_demo.h
+CMakeFiles/cppDemo.dir/main.cpp.obj: ../day6/virtual_f_attr.h
+CMakeFiles/cppDemo.dir/main.cpp.obj: ../day6/virtual_f_demo.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../main.cpp
 

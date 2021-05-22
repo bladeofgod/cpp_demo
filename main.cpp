@@ -32,6 +32,11 @@
 #include "day5/child_constructor.h"
 #include "day5/child_cons_invo_order.h"
 #include "day5/child_to_parent.h"
+#include "day6/abstract_class.h"
+#include "day6/virtual_demo.h"
+#include "day6/virtual_decons.h"
+#include "day6/virtual_f_attr.h"
+#include "day6/virtual_f_demo.h"
 
 
 void day1();
@@ -55,7 +60,13 @@ int main() {
 
 void day5(){
 
-    runPassParam();
+
+    runVFDdemo();
+    //runVFaDemo();
+    //runVDdemo();
+    //runVirtualDemo();
+    //runACdemo();
+    //runPassParam();
     //runChildConsIO();
     //runChildCons();
     //runNoCons();

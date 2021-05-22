@@ -42,6 +42,30 @@ E:/clionProjects/cpp_demo/day5/no_cons_child_class.h
 iostream
 -
 
+E:/clionProjects/cpp_demo/day6/abstract_class.h
+iostream
+-
+
+E:/clionProjects/cpp_demo/day6/virtual_decons.h
+iostream
+-
+
+E:/clionProjects/cpp_demo/day6/virtual_demo.h
+iostream
+-
+
+E:/clionProjects/cpp_demo/day6/virtual_f_attr.h
+iostream
+-
+string
+-
+
+E:/clionProjects/cpp_demo/day6/virtual_f_demo.h
+iostream
+-
+string
+-
+
 E:/clionProjects/cpp_demo/main.cpp
 iostream
 -
@@ -65,4 +89,14 @@ day5/child_cons_invo_order.h
 E:/clionProjects/cpp_demo/day5/child_cons_invo_order.h
 day5/child_to_parent.h
 E:/clionProjects/cpp_demo/day5/child_to_parent.h
+day6/abstract_class.h
+E:/clionProjects/cpp_demo/day6/abstract_class.h
+day6/virtual_demo.h
+E:/clionProjects/cpp_demo/day6/virtual_demo.h
+day6/virtual_decons.h
+E:/clionProjects/cpp_demo/day6/virtual_decons.h
+day6/virtual_f_attr.h
+E:/clionProjects/cpp_demo/day6/virtual_f_attr.h
+day6/virtual_f_demo.h
+E:/clionProjects/cpp_demo/day6/virtual_f_demo.h
 

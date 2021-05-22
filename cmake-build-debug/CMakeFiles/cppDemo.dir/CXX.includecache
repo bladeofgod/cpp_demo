@@ -24,6 +24,10 @@ E:/clionProjects/cpp_demo/day5/child_constructor.h
 iostream
 -
 
+E:/clionProjects/cpp_demo/day5/child_to_parent.h
+iostream
+-
+
 E:/clionProjects/cpp_demo/day5/construct_order.h
 
 E:/clionProjects/cpp_demo/day5/constructor_invoke_order.h
@@ -59,4 +63,6 @@ day5/child_constructor.h
 E:/clionProjects/cpp_demo/day5/child_constructor.h
 day5/child_cons_invo_order.h
 E:/clionProjects/cpp_demo/day5/child_cons_invo_order.h
+day5/child_to_parent.h
+E:/clionProjects/cpp_demo/day5/child_to_parent.h
 

@@ -1,5 +1,6 @@
 #include <iostream>
 #include "day6/day6_demo.h"
+#include "day7/reload_().h"
 
 //#include "day1/print_demo.h"
 //#include "day1/leap_year.h"
@@ -46,6 +47,7 @@ void day3();
 void day4();
 void day5();
 void day6();
+void day7();
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
@@ -54,11 +56,18 @@ int main() {
     //day3();
     //day4();
     //day5();
-    day6();
+    //day6();
+    day7();
 
 
     system("pause");
     return 0;
+}
+
+void day7(){
+
+
+    runReloadBrackets();
 }
 
 

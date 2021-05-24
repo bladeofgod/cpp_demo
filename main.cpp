@@ -1,6 +1,7 @@
 #include <iostream>
 #include "day6/day6_demo.h"
 #include "day7/reload_().h"
+#include "day7/reload_=.h"
 
 //#include "day1/print_demo.h"
 //#include "day1/leap_year.h"
@@ -67,7 +68,8 @@ int main() {
 void day7(){
 
 
-    runReloadBrackets();
+    runReloadEqual();
+    //runReloadBrackets();
 }
 
 

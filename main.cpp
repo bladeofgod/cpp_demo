@@ -1,9 +1,10 @@
 #include <iostream>
-#include "day6/day6_demo.h"
-#include "day7/reload_().h"
-#include "day7/reload_=.h"
-#include "day7/reload_()_[]_example.h"
-#include "day7/reload_[].h"
+//#include "day6/day6_demo.h"
+//#include "day7/reload_().h"
+//#include "day7/reload_=.h"
+//#include "day7/reload_()_[]_example.h"
+//#include "day7/reload_[].h"
+#include "day7/custom_time.h"
 
 //#include "day1/print_demo.h"
 //#include "day1/leap_year.h"
@@ -67,10 +68,27 @@ int main() {
     return 0;
 }
 
+void runCustomTimeDemo(){
+    CustomTime t1(23,59,59);
+    t1.display();
+    ++t1;//隐式调用  (operator)
+    t1.display();
+    t1.operator++();//显示调用
+    CustomTime t2(24,60,60);
+    t2.display();
+    ++t2;
+    t2.display();
+    --t2;
+    t2.display();
+
+}
+
+
 void day7(){
 
 
-    runReloadExamp();
+    runCustomTimeDemo();
+    //runReloadExamp();
     //runReloadExample();
     //runReloadEqual();
     //runReloadBrackets();
@@ -81,7 +99,7 @@ void day6(){
 
 
 
-    runDay6Demo();
+    //runDay6Demo();
 
 }
 

@@ -249,6 +249,33 @@ day4/clock.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/day4/clock.cpp.s
 .PHONY : day4/clock.cpp.s
 
+day7/custom_time.obj: day7/custom_time.cpp.obj
+
+.PHONY : day7/custom_time.obj
+
+# target to build an object file
+day7/custom_time.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/day7/custom_time.cpp.obj
+.PHONY : day7/custom_time.cpp.obj
+
+day7/custom_time.i: day7/custom_time.cpp.i
+
+.PHONY : day7/custom_time.i
+
+# target to preprocess a source file
+day7/custom_time.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/day7/custom_time.cpp.i
+.PHONY : day7/custom_time.cpp.i
+
+day7/custom_time.s: day7/custom_time.cpp.s
+
+.PHONY : day7/custom_time.s
+
+# target to generate assembly for a file
+day7/custom_time.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/day7/custom_time.cpp.s
+.PHONY : day7/custom_time.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -297,6 +324,9 @@ help:
 	@echo ... day4/clock.obj
 	@echo ... day4/clock.i
 	@echo ... day4/clock.s
+	@echo ... day7/custom_time.obj
+	@echo ... day7/custom_time.i
+	@echo ... day7/custom_time.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

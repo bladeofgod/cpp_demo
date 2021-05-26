@@ -11,11 +11,9 @@ CMakeFiles/cppDemo.dir/day3/circlesss.cpp.obj: ../day3/circlesss.cpp
 CMakeFiles/cppDemo.dir/day4/clock.cpp.obj: ../day4/clock.cpp
 CMakeFiles/cppDemo.dir/day4/clock.cpp.obj: ../day4/clock.h
 
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day6/day6_demo.h
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day6/employee.h
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day7/reload_().h
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day7/reload_()_[]_example.h
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day7/reload_$(EQUALS).h
-CMakeFiles/cppDemo.dir/main.cpp.obj: ../day7/reload_[].h
+CMakeFiles/cppDemo.dir/day7/custom_time.cpp.obj: ../day7/custom_time.cpp
+CMakeFiles/cppDemo.dir/day7/custom_time.cpp.obj: ../day7/custom_time.h
+
+CMakeFiles/cppDemo.dir/main.cpp.obj: ../day7/custom_time.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../main.cpp
 

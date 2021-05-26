@@ -6,49 +6,19 @@
 
 #IncludeRegexTransform: 
 
-E:/clionProjects/cpp_demo/day6/day6_demo.h
+E:/clionProjects/cpp_demo/day7/custom_time.cpp
 iostream
 -
-string
--
-employee.h
-E:/clionProjects/cpp_demo/day6/employee.h
+custom_time.h
+E:/clionProjects/cpp_demo/day7/custom_time.h
 
-E:/clionProjects/cpp_demo/day6/employee.h
+E:/clionProjects/cpp_demo/day7/custom_time.h
 iostream
--
-string
--
-
-E:/clionProjects/cpp_demo/day7/reload_().h
-iostream
--
-
-E:/clionProjects/cpp_demo/day7/reload_()_[]_example.h
-iostream
--
-
-E:/clionProjects/cpp_demo/day7/reload_=.h
-iostream
--
-
-E:/clionProjects/cpp_demo/day7/reload_[].h
-iostream
--
-cstring
 -
 
 E:/clionProjects/cpp_demo/main.cpp
 iostream
 -
-day6/day6_demo.h
-E:/clionProjects/cpp_demo/day6/day6_demo.h
-day7/reload_().h
-E:/clionProjects/cpp_demo/day7/reload_().h
-day7/reload_=.h
-E:/clionProjects/cpp_demo/day7/reload_=.h
-day7/reload_()_[]_example.h
-E:/clionProjects/cpp_demo/day7/reload_()_[]_example.h
-day7/reload_[].h
-E:/clionProjects/cpp_demo/day7/reload_[].h
+day7/custom_time.h
+E:/clionProjects/cpp_demo/day7/custom_time.h
 

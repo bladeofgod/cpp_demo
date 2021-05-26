@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-E:/clionProjects/cpp_demo/day7/custom_time.cpp
+E:/clionProjects/cpp_demo/day7/counter.cpp
 iostream
 -
-custom_time.h
-E:/clionProjects/cpp_demo/day7/custom_time.h
+counter.h
+E:/clionProjects/cpp_demo/day7/counter.h
+
+E:/clionProjects/cpp_demo/day7/counter.h
+iostream
+-
 
 E:/clionProjects/cpp_demo/day7/custom_time.h
 iostream
@@ -21,4 +25,6 @@ iostream
 -
 day7/custom_time.h
 E:/clionProjects/cpp_demo/day7/custom_time.h
+day7/counter.h
+E:/clionProjects/cpp_demo/day7/counter.h
 

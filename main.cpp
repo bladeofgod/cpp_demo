@@ -5,6 +5,7 @@
 //#include "day7/reload_()_[]_example.h"
 //#include "day7/reload_[].h"
 #include "day7/custom_time.h"
+#include "day7/counter.h"
 
 //#include "day1/print_demo.h"
 //#include "day1/leap_year.h"
@@ -45,6 +46,7 @@
 //#include "day6/virtual_f_demo.h"
 
 
+
 void day1();
 void day2();
 void day3();
@@ -83,11 +85,24 @@ void runCustomTimeDemo(){
 
 }
 
+void runCounterDemo(){
+    Counter a;
+    ++a;
+    a.display();
+    a++;
+    a.display();
+    --a;
+    a.display();
+    a--;
+    a.display();
+}
+
 
 void day7(){
 
 
-    runCustomTimeDemo();
+    runCounterDemo();
+    //runCustomTimeDemo();
     //runReloadExamp();
     //runReloadExample();
     //runReloadEqual();

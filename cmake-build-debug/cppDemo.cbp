@@ -215,6 +215,12 @@
 		<Unit filename="E:/clionProjects/cpp_demo/day6/virtual_f_demo.h">
 			<Option target="cppDemo"/>
 		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day7/counter.cpp">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day7/counter.h">
+			<Option target="cppDemo"/>
+		</Unit>
 		<Unit filename="E:/clionProjects/cpp_demo/day7/custom_time.cpp">
 			<Option target="cppDemo"/>
 		</Unit>

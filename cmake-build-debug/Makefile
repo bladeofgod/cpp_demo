@@ -249,6 +249,33 @@ day4/clock.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/day4/clock.cpp.s
 .PHONY : day4/clock.cpp.s
 
+day7/counter.obj: day7/counter.cpp.obj
+
+.PHONY : day7/counter.obj
+
+# target to build an object file
+day7/counter.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/day7/counter.cpp.obj
+.PHONY : day7/counter.cpp.obj
+
+day7/counter.i: day7/counter.cpp.i
+
+.PHONY : day7/counter.i
+
+# target to preprocess a source file
+day7/counter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/day7/counter.cpp.i
+.PHONY : day7/counter.cpp.i
+
+day7/counter.s: day7/counter.cpp.s
+
+.PHONY : day7/counter.s
+
+# target to generate assembly for a file
+day7/counter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/day7/counter.cpp.s
+.PHONY : day7/counter.cpp.s
+
 day7/custom_time.obj: day7/custom_time.cpp.obj
 
 .PHONY : day7/custom_time.obj
@@ -324,6 +351,9 @@ help:
 	@echo ... day4/clock.obj
 	@echo ... day4/clock.i
 	@echo ... day4/clock.s
+	@echo ... day7/counter.obj
+	@echo ... day7/counter.i
+	@echo ... day7/counter.s
 	@echo ... day7/custom_time.obj
 	@echo ... day7/custom_time.i
 	@echo ... day7/custom_time.s

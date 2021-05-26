@@ -11,9 +11,13 @@ CMakeFiles/cppDemo.dir/day3/circlesss.cpp.obj: ../day3/circlesss.cpp
 CMakeFiles/cppDemo.dir/day4/clock.cpp.obj: ../day4/clock.cpp
 CMakeFiles/cppDemo.dir/day4/clock.cpp.obj: ../day4/clock.h
 
+CMakeFiles/cppDemo.dir/day7/counter.cpp.obj: ../day7/counter.cpp
+CMakeFiles/cppDemo.dir/day7/counter.cpp.obj: ../day7/counter.h
+
 CMakeFiles/cppDemo.dir/day7/custom_time.cpp.obj: ../day7/custom_time.cpp
 CMakeFiles/cppDemo.dir/day7/custom_time.cpp.obj: ../day7/custom_time.h
 
+CMakeFiles/cppDemo.dir/main.cpp.obj: ../day7/counter.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day7/custom_time.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../main.cpp
 

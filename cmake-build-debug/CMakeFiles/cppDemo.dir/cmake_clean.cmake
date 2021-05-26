@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/cppDemo.dir/day4/clock.cpp.obj"
   "CMakeFiles/cppDemo.dir/day7/counter.cpp.obj"
   "CMakeFiles/cppDemo.dir/day7/custom_time.cpp.obj"
+  "CMakeFiles/cppDemo.dir/day7/reload_complex.cpp.obj"
+  "CMakeFiles/cppDemo.dir/day7/string.cpp.obj"
   "CMakeFiles/cppDemo.dir/main.cpp.obj"
   "cppDemo.exe"
   "cppDemo.exe.manifest"

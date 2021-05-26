@@ -44,6 +44,8 @@
 //#include "day6/virtual_decons.h"
 //#include "day6/virtual_f_attr.h"
 //#include "day6/virtual_f_demo.h"
+#include "day7/reload_complex.h"
+#include "day7/string.h"
 
 
 
@@ -97,11 +99,58 @@ void runCounterDemo(){
     a.display();
 }
 
+void runReloadComplex(){
+    Complex c1(1,2),c2(3,4),c3,c4,c5,c6;
+    Complex a,b(2,3);
+    a = b+2;
+    a.display();
+    c3 = c1+c2;
+    c4 = c1-c2;
+    c5 = c1*c2;
+    c6 = c1/c2;
+    c1.display();
+    c2.display();
+    c3.display();
+    c4.display();
+    c5.display();
+    c6.display();
+}
+
+void runStringDemo(){
+    String s1("happy"),s2("new year"),s3;
+    cout << "s1 is"<<s1<<"\n s2 is "<<s2<<"\b s3 is"<<s3<<"\n"
+        << "\n compare s2 and s1 :"
+        <<"\n result of s2 == 1 is :" <<(s2 == s1 ? "true" : "false")
+        <<"\n result of s2 != s1 is :"<<(s2 != s1 ? "true":"false")
+        <<"\n result of s2 > s1 is :"<<(s2 > s1 ? "true":"false")
+        <<"\n result of s2 < s1 is :"<<(s2 < s1 ? "true":"false")
+        <<"\n result of s2 >= s1 is :"<<(s2 >= s1 ? "true":"false");
+        cout << "\n\n 测试s3 是否为空:";
+    if(!s3){
+        cout<<"s3 is empty string"<<endl;
+        cout<<"s3 = s1 :";
+        s3 = s1;
+        cout<<"s3 ="<<s3<<"\n";
+    }
+    cout<<"s1 += s2 result : s1 = ";
+    s1 +=s2;
+    cout<<s1;
+
+    cout<<"\n s1+= to you ,the result is :";
+    s1 +="to you";
+    cout << "s1 = "<<s1<<endl;
+    s1[0]= 'h';
+    s1[6] = 'n';
+    s1[10] = 'y';
+    cout<<"s1 = "<<s1<<"\n";
+}
+
 
 void day7(){
 
-
-    runCounterDemo();
+    runStringDemo();
+    //runReloadComplex();
+    //runCounterDemo();
     //runCustomTimeDemo();
     //runReloadExamp();
     //runReloadExample();

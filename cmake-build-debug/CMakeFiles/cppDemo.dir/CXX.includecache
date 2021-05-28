@@ -36,6 +36,12 @@ iostream
 cstring
 -
 
+E:/clionProjects/cpp_demo/day8/template_class.h
+iostream
+-
+cstring
+-
+
 E:/clionProjects/cpp_demo/day8/template_demo_1.h
 iostream
 -
@@ -57,4 +63,6 @@ day8/template_demo_1.h
 E:/clionProjects/cpp_demo/day8/template_demo_1.h
 day8/special_template.h
 E:/clionProjects/cpp_demo/day8/special_template.h
+day8/template_class.h
+E:/clionProjects/cpp_demo/day8/template_class.h
 

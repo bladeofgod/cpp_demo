@@ -49,6 +49,7 @@
 #include "day8/map_se.h"
 #include "day8/template_demo_1.h"
 #include "day8/special_template.h"
+#include "day8/template_class.h"
 
 
 void day1();
@@ -78,7 +79,8 @@ int main() {
 
 void day8(){
 
-    runSpecialTemplate();
+    runTemplateClass();
+    //runSpecialTemplate();
     //runTemplateDemo1();
     //runMapSe();
 }

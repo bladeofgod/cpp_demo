@@ -257,6 +257,9 @@
 		<Unit filename="E:/clionProjects/cpp_demo/day8/special_template.h">
 			<Option target="cppDemo"/>
 		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day8/template_class.h">
+			<Option target="cppDemo"/>
+		</Unit>
 		<Unit filename="E:/clionProjects/cpp_demo/day8/template_demo_1.h">
 			<Option target="cppDemo"/>
 		</Unit>

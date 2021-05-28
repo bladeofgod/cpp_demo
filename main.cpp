@@ -46,6 +46,7 @@
 //#include "day6/virtual_f_demo.h"
 #include "day7/reload_complex.h"
 #include "day7/string.h"
+#include "day8/map_se.h"
 
 
 
@@ -56,6 +57,7 @@ void day4();
 void day5();
 void day6();
 void day7();
+void day8();
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
@@ -65,11 +67,16 @@ int main() {
     //day4();
     //day5();
     //day6();
-    day7();
+    //day7();
+    day8();
 
 
     system("pause");
     return 0;
+}
+
+void day8(){
+    runMapSe();
 }
 
 void runCustomTimeDemo(){

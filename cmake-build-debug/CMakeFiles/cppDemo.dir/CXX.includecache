@@ -46,6 +46,10 @@ E:/clionProjects/cpp_demo/day8/template_demo_1.h
 iostream
 -
 
+E:/clionProjects/cpp_demo/day8/template_stack.h
+iostream
+-
+
 E:/clionProjects/cpp_demo/main.cpp
 iostream
 -
@@ -65,4 +69,6 @@ day8/special_template.h
 E:/clionProjects/cpp_demo/day8/special_template.h
 day8/template_class.h
 E:/clionProjects/cpp_demo/day8/template_class.h
+day8/template_stack.h
+E:/clionProjects/cpp_demo/day8/template_stack.h
 

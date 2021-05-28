@@ -50,6 +50,7 @@
 #include "day8/template_demo_1.h"
 #include "day8/special_template.h"
 #include "day8/template_class.h"
+#include "day8/template_stack.h"
 
 
 void day1();
@@ -79,7 +80,8 @@ int main() {
 
 void day8(){
 
-    runTemplateClass();
+    runTemplateStack();
+    //runTemplateClass();
     //runSpecialTemplate();
     //runTemplateDemo1();
     //runMapSe();

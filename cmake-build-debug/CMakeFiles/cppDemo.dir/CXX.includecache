@@ -30,6 +30,16 @@ string
 map
 -
 
+E:/clionProjects/cpp_demo/day8/special_template.h
+iostream
+-
+cstring
+-
+
+E:/clionProjects/cpp_demo/day8/template_demo_1.h
+iostream
+-
+
 E:/clionProjects/cpp_demo/main.cpp
 iostream
 -
@@ -43,4 +53,8 @@ day7/string.h
 E:/clionProjects/cpp_demo/day7/string.h
 day8/map_se.h
 E:/clionProjects/cpp_demo/day8/map_se.h
+day8/template_demo_1.h
+E:/clionProjects/cpp_demo/day8/template_demo_1.h
+day8/special_template.h
+E:/clionProjects/cpp_demo/day8/special_template.h
 

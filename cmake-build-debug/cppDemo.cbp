@@ -254,6 +254,15 @@
 		<Unit filename="E:/clionProjects/cpp_demo/day8/map_se.h">
 			<Option target="cppDemo"/>
 		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day8/special_template.h">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day8/template_demo_1.h">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="E:/clionProjects/cpp_demo/day8/template_important.h">
+			<Option target="cppDemo"/>
+		</Unit>
 		<Unit filename="E:/clionProjects/cpp_demo/main.cpp">
 			<Option target="cppDemo"/>
 		</Unit>

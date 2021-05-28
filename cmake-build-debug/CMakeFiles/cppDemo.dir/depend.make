@@ -28,5 +28,7 @@ CMakeFiles/cppDemo.dir/main.cpp.obj: ../day7/custom_time.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day7/reload_complex.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day7/string.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../day8/map_se.h
+CMakeFiles/cppDemo.dir/main.cpp.obj: ../day8/special_template.h
+CMakeFiles/cppDemo.dir/main.cpp.obj: ../day8/template_demo_1.h
 CMakeFiles/cppDemo.dir/main.cpp.obj: ../main.cpp
 

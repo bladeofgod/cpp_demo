@@ -4,15 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "E:/clionProjects/cpp_demo/day1/print_demo.cpp" "E:/clionProjects/cpp_demo/cmake-build-debug/CMakeFiles/cppDemo.dir/day1/print_demo.cpp.obj"
-  "E:/clionProjects/cpp_demo/day3/Circle.cpp" "E:/clionProjects/cpp_demo/cmake-build-debug/CMakeFiles/cppDemo.dir/day3/Circle.cpp.obj"
-  "E:/clionProjects/cpp_demo/day3/circlesss.cpp" "E:/clionProjects/cpp_demo/cmake-build-debug/CMakeFiles/cppDemo.dir/day3/circlesss.cpp.obj"
-  "E:/clionProjects/cpp_demo/day4/clock.cpp" "E:/clionProjects/cpp_demo/cmake-build-debug/CMakeFiles/cppDemo.dir/day4/clock.cpp.obj"
-  "E:/clionProjects/cpp_demo/day7/counter.cpp" "E:/clionProjects/cpp_demo/cmake-build-debug/CMakeFiles/cppDemo.dir/day7/counter.cpp.obj"
-  "E:/clionProjects/cpp_demo/day7/custom_time.cpp" "E:/clionProjects/cpp_demo/cmake-build-debug/CMakeFiles/cppDemo.dir/day7/custom_time.cpp.obj"
-  "E:/clionProjects/cpp_demo/day7/reload_complex.cpp" "E:/clionProjects/cpp_demo/cmake-build-debug/CMakeFiles/cppDemo.dir/day7/reload_complex.cpp.obj"
-  "E:/clionProjects/cpp_demo/day7/string.cpp" "E:/clionProjects/cpp_demo/cmake-build-debug/CMakeFiles/cppDemo.dir/day7/string.cpp.obj"
-  "E:/clionProjects/cpp_demo/main.cpp" "E:/clionProjects/cpp_demo/cmake-build-debug/CMakeFiles/cppDemo.dir/main.cpp.obj"
+  "G:/clionProjects/cppDemo/day1/print_demo.cpp" "G:/clionProjects/cppDemo/cmake-build-debug/CMakeFiles/cppDemo.dir/day1/print_demo.cpp.obj"
+  "G:/clionProjects/cppDemo/day3/Circle.cpp" "G:/clionProjects/cppDemo/cmake-build-debug/CMakeFiles/cppDemo.dir/day3/Circle.cpp.obj"
+  "G:/clionProjects/cppDemo/day3/circlesss.cpp" "G:/clionProjects/cppDemo/cmake-build-debug/CMakeFiles/cppDemo.dir/day3/circlesss.cpp.obj"
+  "G:/clionProjects/cppDemo/day4/clock.cpp" "G:/clionProjects/cppDemo/cmake-build-debug/CMakeFiles/cppDemo.dir/day4/clock.cpp.obj"
+  "G:/clionProjects/cppDemo/day7/counter.cpp" "G:/clionProjects/cppDemo/cmake-build-debug/CMakeFiles/cppDemo.dir/day7/counter.cpp.obj"
+  "G:/clionProjects/cppDemo/day7/custom_time.cpp" "G:/clionProjects/cppDemo/cmake-build-debug/CMakeFiles/cppDemo.dir/day7/custom_time.cpp.obj"
+  "G:/clionProjects/cppDemo/day7/reload_complex.cpp" "G:/clionProjects/cppDemo/cmake-build-debug/CMakeFiles/cppDemo.dir/day7/reload_complex.cpp.obj"
+  "G:/clionProjects/cppDemo/day7/string.cpp" "G:/clionProjects/cppDemo/cmake-build-debug/CMakeFiles/cppDemo.dir/day7/string.cpp.obj"
+  "G:/clionProjects/cppDemo/main.cpp" "G:/clionProjects/cppDemo/cmake-build-debug/CMakeFiles/cppDemo.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

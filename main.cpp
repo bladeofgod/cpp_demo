@@ -51,6 +51,7 @@
 #include "day8/special_template.h"
 #include "day8/template_class.h"
 #include "day8/template_stack.h"
+#include "day9/e_demo_1.h"
 
 
 void day1();
@@ -61,6 +62,7 @@ void day5();
 void day6();
 void day7();
 void day8();
+void day9();
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
@@ -71,11 +73,24 @@ int main() {
     //day5();
     //day6();
     //day7();
-    day8();
-
+    //day8();
+    day9();
 
     system("pause");
     return 0;
+}
+
+void day9(){
+
+
+    runFileE();
+    //runStackE();
+    //runE71();
+    //runE7();
+    //runE6();
+    //runE5();
+    //runE2();
+    //runE1();
 }
 
 void day8(){

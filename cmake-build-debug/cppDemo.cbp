@@ -98,6 +98,18 @@
 		<Unit filename="G:/clionProjects/cppDemo/day1/union_practice.h">
 			<Option target="cppDemo"/>
 		</Unit>
+		<Unit filename="G:/clionProjects/cppDemo/day10/demo12.h">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="G:/clionProjects/cppDemo/day10/get12.h">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="G:/clionProjects/cppDemo/day10/get121.h">
+			<Option target="cppDemo"/>
+		</Unit>
+		<Unit filename="G:/clionProjects/cppDemo/day10/get122.h">
+			<Option target="cppDemo"/>
+		</Unit>
 		<Unit filename="G:/clionProjects/cppDemo/day2/enum_demo.h">
 			<Option target="cppDemo"/>
 		</Unit>

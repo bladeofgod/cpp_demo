@@ -6,6 +6,30 @@
 
 #IncludeRegexTransform: 
 
+G:/clionProjects/cppDemo/day10/demo12.h
+iostream
+-
+iomanip
+-
+fstream
+-
+vector
+-
+cstring
+-
+
+G:/clionProjects/cppDemo/day10/get12.h
+iostream
+-
+
+G:/clionProjects/cppDemo/day10/get121.h
+iostream
+-
+
+G:/clionProjects/cppDemo/day10/get122.h
+iostream
+-
+
 G:/clionProjects/cppDemo/day7/counter.h
 iostream
 -
@@ -77,4 +101,12 @@ day8/template_stack.h
 G:/clionProjects/cppDemo/day8/template_stack.h
 day9/e_demo_1.h
 G:/clionProjects/cppDemo/day9/e_demo_1.h
+day10/get12.h
+G:/clionProjects/cppDemo/day10/get12.h
+day10/get121.h
+G:/clionProjects/cppDemo/day10/get121.h
+day10/get122.h
+G:/clionProjects/cppDemo/day10/get122.h
+day10/demo12.h
+G:/clionProjects/cppDemo/day10/demo12.h
 

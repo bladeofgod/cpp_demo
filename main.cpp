@@ -52,6 +52,10 @@
 #include "day8/template_class.h"
 #include "day8/template_stack.h"
 #include "day9/e_demo_1.h"
+#include "day10/get12.h"
+#include "day10/get121.h"
+#include "day10/get122.h"
+#include "day10/demo12.h"
 
 
 void day1();
@@ -63,6 +67,7 @@ void day6();
 void day7();
 void day8();
 void day9();
+void day10();
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
@@ -74,10 +79,27 @@ int main() {
     //day6();
     //day7();
     //day8();
-    day9();
+    //day9();
+    day10();
 
     system("pause");
     return 0;
+}
+
+void day10(){
+
+
+    rundemo12();
+    //run12104();
+    //rundemo129();
+    //rundemo127();
+    //rundemo126();
+    //rundemo125();
+    //rundemo123();
+    //rundemo122();
+    //runget122();
+    //runGet121();
+    //runget12();
 }
 
 void day9(){

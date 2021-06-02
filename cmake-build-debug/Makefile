@@ -57,19 +57,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "I:\clion\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "E:\clion\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "I:\clion\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f
+RM = "E:\clion\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = G:\clionProjects\cppDemo
+CMAKE_SOURCE_DIR = E:\clionProjects\cpp_demo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = G:\clionProjects\cppDemo\cmake-build-debug
+CMAKE_BINARY_DIR = E:\clionProjects\cpp_demo\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -77,7 +77,7 @@ CMAKE_BINARY_DIR = G:\clionProjects\cppDemo\cmake-build-debug
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	"I:\clion\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"E:\clion\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -88,7 +88,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"I:\clion\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+	"E:\clion\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -98,9 +98,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start G:\clionProjects\cppDemo\cmake-build-debug\CMakeFiles G:\clionProjects\cppDemo\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\clionProjects\cpp_demo\cmake-build-debug\CMakeFiles E:\clionProjects\cpp_demo\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start G:\clionProjects\cppDemo\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\clionProjects\cpp_demo\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -384,6 +384,60 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+rbtree/rb_tree.obj: rbtree/rb_tree.cpp.obj
+
+.PHONY : rbtree/rb_tree.obj
+
+# target to build an object file
+rbtree/rb_tree.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/rbtree/rb_tree.cpp.obj
+.PHONY : rbtree/rb_tree.cpp.obj
+
+rbtree/rb_tree.i: rbtree/rb_tree.cpp.i
+
+.PHONY : rbtree/rb_tree.i
+
+# target to preprocess a source file
+rbtree/rb_tree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/rbtree/rb_tree.cpp.i
+.PHONY : rbtree/rb_tree.cpp.i
+
+rbtree/rb_tree.s: rbtree/rb_tree.cpp.s
+
+.PHONY : rbtree/rb_tree.s
+
+# target to generate assembly for a file
+rbtree/rb_tree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/rbtree/rb_tree.cpp.s
+.PHONY : rbtree/rb_tree.cpp.s
+
+rbtree/rb_tree_node.obj: rbtree/rb_tree_node.cpp.obj
+
+.PHONY : rbtree/rb_tree_node.obj
+
+# target to build an object file
+rbtree/rb_tree_node.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/rbtree/rb_tree_node.cpp.obj
+.PHONY : rbtree/rb_tree_node.cpp.obj
+
+rbtree/rb_tree_node.i: rbtree/rb_tree_node.cpp.i
+
+.PHONY : rbtree/rb_tree_node.i
+
+# target to preprocess a source file
+rbtree/rb_tree_node.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/rbtree/rb_tree_node.cpp.i
+.PHONY : rbtree/rb_tree_node.cpp.i
+
+rbtree/rb_tree_node.s: rbtree/rb_tree_node.cpp.s
+
+.PHONY : rbtree/rb_tree_node.s
+
+# target to generate assembly for a file
+rbtree/rb_tree_node.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cppDemo.dir\build.make CMakeFiles/cppDemo.dir/rbtree/rb_tree_node.cpp.s
+.PHONY : rbtree/rb_tree_node.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -420,6 +474,12 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... rbtree/rb_tree.obj
+	@echo ... rbtree/rb_tree.i
+	@echo ... rbtree/rb_tree.s
+	@echo ... rbtree/rb_tree_node.obj
+	@echo ... rbtree/rb_tree_node.i
+	@echo ... rbtree/rb_tree_node.s
 .PHONY : help
 
 

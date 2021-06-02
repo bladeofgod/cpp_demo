@@ -8,6 +8,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/cppDemo.dir/day7/reload_complex.cpp.obj"
   "CMakeFiles/cppDemo.dir/day7/string.cpp.obj"
   "CMakeFiles/cppDemo.dir/main.cpp.obj"
+  "CMakeFiles/cppDemo.dir/rbtree/rb_tree.cpp.obj"
+  "CMakeFiles/cppDemo.dir/rbtree/rb_tree_node.cpp.obj"
   "cppDemo.exe"
   "cppDemo.exe.manifest"
   "cppDemo.pdb"
